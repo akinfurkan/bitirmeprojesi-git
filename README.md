@@ -1,0 +1,2 @@
+# bitirmeprojesi-git
+bitirmeprojesi
